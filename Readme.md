@@ -89,7 +89,7 @@ I have uploaded and linked several texture packs for the pod. These packs contai
 - [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*)
 
 ### Replaces
-- [Duopods](https://github.com/KSP-CKAN/NetKAN/blob/4c4e8a71d90a0cf37dae140d506b2a923384ce72/NetKAN/Mk1-1A2.frozen)
+- [Mk1-1A2](https://github.com/KSP-CKAN/NetKAN/blob/4c4e8a71d90a0cf37dae140d506b2a923384ce72/NetKAN/Mk1-1A2.frozen)
 <hr>
 
 <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*" target="_blank"><img src="https://i.imgur.com/YdYfStN.jpg"/></a>
