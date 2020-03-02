@@ -6,7 +6,7 @@
 License: CC-BY-NC-SA-4.0
 Game Version: 1.7.3
 Author: Yarbrough08
-Mod Website: ![Forum Thread](http://forum.kerbalspaceprogram.com/index.php?/topic/88604-*)
+Mod Website: [Forum Thread](http://forum.kerbalspaceprogram.com/index.php?/topic/88604-*)
 I became interested in modeling a 2 person CP that was not historic in nature. I am looking for feedback at the moment, as well as interest in the project. So, with that being said...
 
 This is a 2.5m to 1.25m, 2-kerbal, command module. I used the dimensions of kerbals to come us with this size. The 3-kerbal Mk 1-2 pod crams too many kerbals in, and doesn't leave room for them to move around or even exit. It will be compensated for in a mass reduction, as not as much(insert your ideals of life support or equipment) is needed to contain 2 vs 3 kerbals.
