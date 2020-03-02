@@ -3,9 +3,9 @@
 ## by Yarbrough08
 
 
-License: CC-BY-NC-SA-4.0
-Game Version: 1.7.3
-Author: Yarbrough08
+License: CC-BY-NC-SA-4.0  
+Game Version: 1.7.3  
+Author: Yarbrough08  
 Mod Website: [Forum Thread](http://forum.kerbalspaceprogram.com/index.php?/topic/88604-*)
 I became interested in modeling a 2 person CP that was not historic in nature. I am looking for feedback at the moment, as well as interest in the project. So, with that being said...
 
