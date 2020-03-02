@@ -102,7 +102,7 @@ For now, license is: ![CC BY-NC-SA-4.0](https://licensebuttons.net/l/by-nc-sa/4.
 
 ### Legal Mumbo Jumbo
 Source: [GitHub](https://github.com/zer0Kerbal/Mk2Y)
-License: [CC 4.0 BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) ![CC BY-NC-SA 4.0](https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/88x31.png "CC BY-NC-SA 4.0")<br>
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) ![CC BY-NC-SA 4.0](https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/88x31.png "CC BY-NC-SA 4.0")<br>
 
 Mk2Y is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license, which in layman's terms means:
 > * You are permitted to use, copy and redistribute my work as-is.
