@@ -42,7 +42,10 @@ NOTE: TEXTURES ARE SEPERATE NOW! YOU WILL NEED TO DOWNLOAD A TEXTURE PACK! PICK 
 
 I created high, medium, and low textures (both diffuse and normal map) for the pod exterior shell. I also am giving an ultra low choice that will make the pod appear as it was before - no detail.
 
-AGAIN, THE TEXTURES ARE NOT INCLUDED IN THE POD DOWNLOAD.
+<del>AGAIN, THE TEXTURES ARE NOT INCLUDED IN THE POD DOWNLOAD.</del>
+![](https://raw.githubusercontent.com/zer0Kerbal/Mk2Y/master/img/Mk._1-1_A2.png)
+![](https://raw.githubusercontent.com/zer0Kerbal/Mk2Y/master/img/QyYzqbX.jpg)
+![](https://raw.githubusercontent.com/zer0Kerbal/Mk2Y/master/img/YajsY8D.png)
 
 I have uploaded and linked several texture packs for the pod. These packs contain the textures for the exterior (previously white) "shell," as well as the interior and exterior windows. The packs are divided up based off of the exterior shell texture size, and include:
 
