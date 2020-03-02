@@ -4,7 +4,7 @@
 ![KSP version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DuoPods/master/json/ksp.json?style=plastic) ![KSP-AVC](https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic) ![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=plastic)  
 ![Spacedock](https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic) ![CKAN](https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic) ![Github](https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic) ![Curseforge](https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic)
 
-> ***A mod that adds three parts - two version of a two-kerbal pod, and a matching RCS enabled heat shield *** 
+> ***A mod that adds three parts - two versions of a two-kerbal pod, and a matching RCS enabled heat shield *** 
 ## Author
 Mk2Y [M2Y] adopts Yarbrough08's Mk. 1-1 A2 Two Kerbal Command Pod for curation by [zer0Kerbal](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/)*** Originally created by [Yarbrough08](https://forum.kerbalspaceprogram.com/index.php?/profile/72048-yarbrough08/)
 
