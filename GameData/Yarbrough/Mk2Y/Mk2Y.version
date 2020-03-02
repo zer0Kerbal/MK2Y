@@ -1,12 +1,12 @@
 {
 	"NAME":"Yarbrough Mk2-Y Command Pod",
-	"URL":"https://raw.githubusercontent.com/zer0Kerbal/Yarbrough/Mk2-Y.version",
-	"DOWNLOAD":"https://github.com/zer0Kerbal/Yarbrough/releases/latest",
-	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/zer0Kerbal/Yarbrough/master/Mk2-YChangelog.cfg",
+	"URL":"https://raw.githubusercontent.com/zer0Kerbal/Mk2Y/Mk2-Y.version",
+	"DOWNLOAD":"https://github.com/zer0Kerbal/Mk2Y/releases/latest",
+	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/zer0Kerbal/Mk2Y/master/Mk2-YChangelog.cfg",
     "GITHUB":
     {
         "USERNAME":"zer0Kerbal",
-        "REPOSITORY":"Yarbrough",
+        "REPOSITORY":"Mk2Y",
         "ALLOW_PRE_RELEASE":false
     },
 	"VERSION":
