@@ -1,6 +1,8 @@
 {
-  "schemaVersion": 1,
-  "label": "Yarbrough Mk2-Y Command Pod",
-  "message": "0.0.5.0",
-  "color": "orange"
+ "schemaVersion": 1,
+ "label": "Yarbrough08 MK2Y",
+ "labelColor": "darkgreen",
+ "message": "0.0.5.0",
+ "color": "orange",
+ "style": "plastic"
 }
