@@ -38,7 +38,7 @@ Mk. 1-1 A2 Two Kerbal Command Pod
 
 This is a 2.5m, 2 Kerbal, command pod. It includes the IVA, as well as, attachable heatshield with RCS ports. The heatshield is equipped with a shroud to smooth the transition to whatever 2.5m part you choose to place under it. Although the current version is a WIP, most of the pod is complete (todo: some visual and minor .cfg tweaking). The RCS ports do work, as does the heatshield (stock ablative protection). On the IVA side I have working stock props, IVA lights, front and side windows that are 'clickable', and a front window docking guide ('iron sights').
 
-NOTE: TEXTURES ARE SEPERATE NOW! YOU WILL NEED TO DOWNLOAD A TEXTURE PACK! PICK ONLY ONE!
+NOTE: TEXTURES ARE separate NOW! YOU WILL NEED TO DOWNLOAD A TEXTURE PACK! PICK ONLY ONE!
 
 I created high, medium, and low textures (both diffuse and normal map) for the pod exterior shell. I also am giving an ultra low choice that will make the pod appear as it was before - no detail.
 
